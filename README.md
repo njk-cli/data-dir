@@ -1,4 +1,6 @@
 # data-dir
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mohitsinghs/data-dir.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/mohitsinghs/data-dir.svg)](https://travis-ci.org/mohitsinghs/data-dir)
 [![npm](https://badge.fury.io/js/data-dir.svg)](http://badge.fury.io/js/data-dir)
 [![Dependency Status](https://gemnasium.com/badges/github.com/mohitsinghs/data-dir.svg)](https://gemnasium.com/github.com/mohitsinghs/data-dir)
